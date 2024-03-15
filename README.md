@@ -1,3 +1,5 @@
+<img src= "https://github.com/ShivamChauhan-dev/ShivamChauhan-dev/blob/c140a44e405bbdc940385678f7b1d4f586b29e39/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.png" />
+
 <h1 align="center">Hi 👋, I'm SHIVAM CHAUHAN</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
