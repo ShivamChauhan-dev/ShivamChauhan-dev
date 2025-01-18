@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://shivamchauhan.tech/](https://shivamchauhan.tech/)
+- 👨‍💻 All of my projects are available at [https://shivamchauhan.vercel.app/](https://shivamchauhan.vercel.app/)
 
 - 📫 How to reach me **shivam.unique1@gmail.com**
 
-- 📄 Know about my experiences [https://shivamchauhan.tech/static/media/SHIVAM%20CV.49bb80845251fc4fc911.pdf](https://shivamchauhan.tech/static/media/SHIVAM%20CV.49bb80845251fc4fc911.pdf)
+- 📄 Know about my experiences [Resume](https://shivamchauhan.vercel.app/static/media/SHIVAM%20CV.3ccfd15862856084a804.pdf)
 
 - ⚡ Fun fact **I THINK I AM BEST PROGRAMMER**
 
